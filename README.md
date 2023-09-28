@@ -1,9 +1,14 @@
 <!-- syntax=markdown -->
-<link rel='stylesheet' type='text/css' href='.config/colors.css'>
+<link rel='stylesheet' type='text/css' href='static/colors.css'>
+<style>
+  blue {
+    color: "blue";
+  }
+</style>
 
 Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved
 
-> 🛈 NOTE: Under Construction
+> <blue>🛈 NOTE:</blue> Under Construction
 
 ## DevOps@AlexVisca
 
