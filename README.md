@@ -2,9 +2,9 @@ Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved
 
 > 🛈 NOTE: Under Construction
 
-## DevOps@AlexVisca
+## DevOps@AlexVisca 🛈
 
-Private repository for HomeLab development.
+🛈 Private repository for HomeLab development.
 
 ---
 
