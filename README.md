@@ -1,14 +1,7 @@
 <!-- syntax=markdown -->
-<style>
-  blue {
-    color: "blue";
-  }
-</style>
-
-
 Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved
 
-> <blue>🛈 NOTE:</blue> Under Construction
+> `#0000FF`🛈 NOTE:`#000000` Under Construction
 
 ## DevOps@AlexVisca
 
