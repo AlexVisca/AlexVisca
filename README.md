@@ -1,7 +1,7 @@
 <!-- syntax=markdown -->
 Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved
 
-> `#0000ff` 🛈 NOTE: Under Construction
+> 🛈 NOTE: Under Construction
 
 ## DevOps@AlexVisca
 
