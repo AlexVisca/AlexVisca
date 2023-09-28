@@ -1,7 +1,6 @@
 Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved
 
-> Note:
-Under Construction
+> 🛈 NOTE: Under Construction
 
 ## DevOps@AlexVisca
 
