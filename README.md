@@ -17,7 +17,8 @@
 
 ## Legal
 
-> [!WARNING]  This repository is protected under international copyright, and is not intended for use, modification, or distribution without the author's permission.  
+> [!WARNING]
+> This repository is protected under international copyright, and is not intended for use, modification, or distribution without the author's permission.  
 > In accordance with international copyright law and any additional provisions of the territorial jurisdiction, the default protections apply, meaning that the author retains all rights to the source code and no one may reproduce, distribute, or create derivative works from this work.  
 
 All source code repositories herein are not licenced for open-source use, modification, or distribution unless an approved end-user licence agreement is explicitly included with the distribution of the associated source code repository, under which all use, modifications, and distribution are liable. If no end-user licence agreement is included, then it shall be assumed that any and all source code, object code, and data therein are protected by the rights established under international copyright law and any additional provisions established under the governing authority of the relevant territorial jurisdiction in so far as they do not contradict any provisions of superceding legislation.  
