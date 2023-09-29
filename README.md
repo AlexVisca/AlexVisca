@@ -1,3 +1,5 @@
+Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
+
 # DevOps@AlexVisca
 
 ## ⚠️ **🛠 UNDER CONSTRUCTION 🛠** ⚠️
@@ -27,6 +29,6 @@ Any external sources used herein are referenced with full disclosure and given d
 
 ### Licence
 
-No Licence. This software and all source code is not licenced for use, reproduction in part of full, or distribution without explicit consent by the author.
+No Licence. This software and all source code is not licenced for use, modification, reproduction in part or full, or distribution without explicit consent by the author.
 
-Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved
+Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
