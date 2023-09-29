@@ -1,17 +1,22 @@
-<!-- syntax=markdown -->
-Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved
+Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
 
-> 🛈 NOTE: Under Construction
+## ⚠️ **🛠 UNDER CONSTRUCTION 🛠** ⚠️
 
-## DevOps@AlexVisca
+>  **ℹ️ DISCLAIMER:**  Public Repositories are for ***Demonstration and/or Development Purposes Only***.  
+> Configurations and credentials included in any repository are for development purposes only and are not replicated in production environments.  
 
-Private repository for HomeLab development.
+> **🛈 NOTE:** Private repositories are for personal HomeLab Purposes Only***
+
+> [!Note]  
+> notables
 
 ---
 
-### Licence
+## Legal
 
-> **Warning** Under Construction
+> ⚠️ **Warning** This repository is not licenced for open-source distribution.  
+In accordance with international copyright laws, the default copyright laws apply, meaning that the author retains all rights to the source code and no one may reproduce, distribute, or create derivative works from this work.  Any external source  used herein are referenced
 
-No Licence. The default copyright laws apply, meaning that the author retains all rights to the source code and no one may reproduce, distribute, or create derivative works from this work. 
+No Licence.
 
+Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved
