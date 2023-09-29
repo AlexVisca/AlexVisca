@@ -7,7 +7,8 @@ Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
 
 > **🛈 NOTE:** Private repositories are for personal HomeLab Purposes Only***
 
-> [!Note]  notables
+> [!NOTE]
+> notables
 
 ---
 
