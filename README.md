@@ -3,17 +3,15 @@
 ## ⚠️ **🛠 UNDER CONSTRUCTION 🛠** ⚠️
 
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
 > Public Repositories are for ***Demonstration and/or Development Purposes Only***.  
 > Configurations and credentials included in any repository are for development purposes only and are not replicated in production environments.  
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
 > Private repositories are for ***personal HomeLab Purposes Only***
 
 > [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
-> This repository is not licenced for open-source distribution.  In accordance with international copyright laws, the default copyright laws apply, meaning that the author retains all rights to the source code and no one may reproduce, distribute, or create derivative works from this work.  Any external source  used herein are referenced
+> This repository is not licenced for open-source distribution.  
+> In accordance with international copyright laws, the default copyright laws apply, meaning that the author retains all rights to the source code and no one may reproduce, distribute, or create derivative works from this work.  Any external source  used herein are referenced
 
 ---
 
