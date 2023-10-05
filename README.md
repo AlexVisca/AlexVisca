@@ -1,4 +1,4 @@
-Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
+>Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
 
 # DevOps@AlexVisca
 
@@ -18,4 +18,4 @@ Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
 
 No Licence. This repository and all source code herein is not licenced for use, modification, distribution, or reproduction in part or full without explicit consent by the author.
 
-Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
+>Copyright &copy; 2020, 2023 Alexander Visca. All rights reserved.
