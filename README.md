@@ -3,7 +3,7 @@
 # DevOps@AlexVisca
 
 > [!NOTE]
-> ⚠️ **🛠 UNDER CONSTRUCTION 🛠** ⚠️
+> ⚠️ **🛠 UNDER CONSTRUCTION 🛠** ⚠️  
 > Check back later for new updates.
 
 > [!IMPORTANT]
